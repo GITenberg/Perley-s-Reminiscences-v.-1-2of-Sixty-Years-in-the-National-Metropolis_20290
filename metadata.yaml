@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9212
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Perley_Poore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20290#Perley-s-Reminiscences-v.-1-2of-Sixty-Years-in-the-National-Metropolis
 gutenberg_issued: '2007-01-05'
 gutenberg_type: Text
 identifiers:
