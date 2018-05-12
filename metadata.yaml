@@ -1,0 +1,33 @@
+_repo: Perley-s-Reminiscences-v.-1-2of-Sixty-Years-in-the-National-Metropolis_20290
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Poore, Benjamin Perley
+    birthdate: 1820
+    deathdate: 1887
+    gutenberg_agent_id: '9212'
+    url: http://www.gutenberg.org/2009/agents/9212
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Perley_Poore
+description: ''
+gutenberg_issued: '2007-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20290'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F106'
+- !lcsh 'Washington (D.C.) -- History'
+- !lcsh 'Washington (D.C.) -- Social life and customs'
+- !lcsh 'Journalists -- United States -- Biography'
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'Poore, Benjamin Perley, 1820-1887'
+title: 'Perley''s Reminiscences, v. 1-2
+
+  of Sixty Years in the National Metropolis'
+url: http://www.gutenberg.org/ebooks/20290
